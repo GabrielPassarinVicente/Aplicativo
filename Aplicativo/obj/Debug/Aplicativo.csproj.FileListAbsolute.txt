@@ -1,0 +1,13 @@
+C:\Users\GabrielPassarin\Desktop\Aplicativo\Aplicativo\Aplicativo\bin\Debug\Aplicativo.exe.config
+C:\Users\GabrielPassarin\Desktop\Aplicativo\Aplicativo\Aplicativo\bin\Debug\Aplicativo.exe
+C:\Users\GabrielPassarin\Desktop\Aplicativo\Aplicativo\Aplicativo\bin\Debug\Aplicativo.pdb
+C:\Users\GabrielPassarin\Desktop\Aplicativo\Aplicativo\Aplicativo\obj\Debug\Aplicativo.csproj.AssemblyReference.cache
+C:\Users\GabrielPassarin\Desktop\Aplicativo\Aplicativo\Aplicativo\obj\Debug\Aplicativo.csproj.SuggestedBindingRedirects.cache
+C:\Users\GabrielPassarin\Desktop\Aplicativo\Aplicativo\Aplicativo\obj\Debug\Aplicativo.Form1.resources
+C:\Users\GabrielPassarin\Desktop\Aplicativo\Aplicativo\Aplicativo\obj\Debug\Aplicativo.Form2.resources
+C:\Users\GabrielPassarin\Desktop\Aplicativo\Aplicativo\Aplicativo\obj\Debug\Aplicativo.Properties.Resources.resources
+C:\Users\GabrielPassarin\Desktop\Aplicativo\Aplicativo\Aplicativo\obj\Debug\Aplicativo.csproj.GenerateResource.cache
+C:\Users\GabrielPassarin\Desktop\Aplicativo\Aplicativo\Aplicativo\obj\Debug\Aplicativo.csproj.CoreCompileInputs.cache
+C:\Users\GabrielPassarin\Desktop\Aplicativo\Aplicativo\Aplicativo\obj\Debug\Aplicativo.exe
+C:\Users\GabrielPassarin\Desktop\Aplicativo\Aplicativo\Aplicativo\obj\Debug\Aplicativo.pdb
+C:\Users\GabrielPassarin\Desktop\Aplicativo\Aplicativo\Aplicativo\obj\Debug\Aplicativo.Form3.resources
